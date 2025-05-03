@@ -43,3 +43,48 @@ To run the python notebook, just run all the cells (click play)
     - `ghibli_real`: real ghibli images
 - `results`: contains the csv file of the similarity results and the plot
 - `similarity_test.ipynb`: main code to run the python script
+
+## References
+### AI Images (Prompts) – in folder `ghibli_data/ghibli_ai`:
+ai_01: “In studio ghibli style, create an image of Yale students frolicking on cross campus with the sun out, green grass, and pink cherry blossom trees.” [original prompt]
+
+ai_02: “In studio ghibli style, create an image of a man riding horseback in Iceland, passing glaciers and waterfalls.” [original prompt]
+
+ai_03: “In studio ghibli style, create an image of a fire cooking breakfast in a pan.” [mimic ghibli_03]
+
+ai_04: “In studio ghibli style, create an image of a boy screaming of excitement in a blossoming field, next to a dog and scarecrow.” [mimic ghibli_04]
+
+ai_05: “In studio ghibli style, create an image of a kid running on water to catch a football.” [original prompt]
+
+ai_06: “In studio ghibli style, create an image of a girl running alongside large fish in the water.” [mimic ghibli_06]
+
+ai_07: “In studio ghibli style, create an image of a two cart train riding on clear water during a soft sunset with some clouds.” [mimic ghibli_07]
+
+ai_08: “ In studio ghibli style, create an image of a kid riding their dragon in the night sky.” [original prompt]
+
+ai_09: “In studio ghibli style, create an image of a dad riding a bike with his two kids.” [mimic ghibli_09]
+
+ai_10: [famous meme obtained online](https://huggingface.co/blog/LLMhacker/ghibli-ai-image)
+
+### Scenes of Real Ghibli-Style Images – in folder `ghibli_data/ghibli_real`: (obtained from [studio website](https://www.ghibli.jp/works/))
+
+ghibli_01: Castle in the Sky
+
+ghibli_02: Castle in the Sky
+
+ghibli_03: Howl’s Moving Castle
+
+ghibli_04: Howl’s Moving Castle
+
+ghibli_05: Ponyo
+
+ghibli_06: Ponyo
+
+ghibli_07: Spirited Away
+
+ghibli_08: Spirited Away
+
+ghibli_09: My Neighbor Totoro
+
+ghibli_10: My Neighbor Totoro
+
