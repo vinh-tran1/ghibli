@@ -44,6 +44,17 @@ To run the python notebook, just run all the cells (click play)
 - `results`: contains the csv file of the similarity results and the plot
 - `similarity_test.ipynb`: main code to run the python script
 
+## Results
+### Ghibli-Style AI Image Similarity Plot
+
+This scatter plot visualizes average **style distance** (x-axis) and **semantic similarity** (y-axis) for AI-generated images compared to Studio Ghibli stills. Risk zones are color-coded by legal exposure.
+
+![Similarity Plot](results/similarity_scatter.png)
+
+### Similarity Results in Table
+
+[Similarity Results](results/similarity_results.csv)
+
 ## References
 ### AI Images (Prompts) – in folder `ghibli_data/ghibli_ai`:
 ai_01: “In studio ghibli style, create an image of Yale students frolicking on cross campus with the sun out, green grass, and pink cherry blossom trees.” [original prompt]
